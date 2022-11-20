@@ -9,7 +9,7 @@ Gedurende dit project gaan jullie in viertallen werken aan jullie eerste Unreal 
 
 Aan het einde van deze week moet het prototype af zijn.
 
-![layout image](layout image.png)
+![Image](layout-image.png)
 
 ## Informatie
 Jullie zullen begeleid worden door meer ervaren studenten. Dit zal jullie eerste aanspreekpunt zijn voor vragen over Unreal. Pas daarna kan je vragen stellen aan de docenten.
