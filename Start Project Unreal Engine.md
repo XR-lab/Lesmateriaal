@@ -1,5 +1,5 @@
 # Unreal Startup Project
-Gedurende dit project gaan jullie in viertallen werken aan jullie eerste Unreal Engine project. Het project zal één week duren (maandag, dinsdag en vrijdag). Dit project heeft de volgende leerdoelen:
+Gedurende dit project gaan jullie in viertallen werken aan jullie eerste Unreal Engine project. Het project zal één week duren (maandag, dinsdag en donderdag). Dit project heeft de volgende leerdoelen:
 
  - Leren samenwerken in een multidiciplinair team
  - De basis leren van de **Unreal Engine Editor**
